@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Suvansh 👋
 
-<!--
-**sudoXpg/sudoXpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my GitHub!
 
-Here are some ideas to get you started:
+I'm a **3rd year Electronics and Communication Engineering student** at VIT Vellore, with a deep passion for **embedded systems**, **VLSI**, and **digital design**. My focus is on creating innovative solutions using **microcontrollers**, **analog circuits**, and **custom hardware designs**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+### 🛠️ Skills & Tools
+
+- **Languages:** C, C++, Python, Verilog, MATLAB, Assembly (x86 & 8051)
+- **Tools:** Arduino, ESP8266, MATLAB, Cadence, Vivado, Keil uVision, Git, STM-32
+- **Areas of Expertise:** Embedded Systems, Digital Design, IoT, Microcontrollers, Analog Circuits, VLSI
+
+---
+
+### 📫 Get in Touch
+
+- **LinkedIn:** [🔨](https://www.linkedin.com/in/suvansh-gupta-8bb744308/))
+
+Feel free to explore my repositories and reach out if you'd like to collaborate!
