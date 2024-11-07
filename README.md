@@ -17,6 +17,6 @@ I'm a **3rd year Electronics and Communication Engineering student** at VIT Vell
 
 ### 📫 Get in Touch
 
-- **LinkedIn:** [🔨](https://www.linkedin.com/in/suvansh-gupta-8bb744308/))
+- **LinkedIn:** [🔨](https://www.linkedin.com/in/suvansh-gupta-8bb744308/)
 
 Feel free to explore my repositories and reach out if you'd like to collaborate!
