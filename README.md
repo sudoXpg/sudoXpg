@@ -9,9 +9,26 @@ I'm a **3rd year Electronics and Communication Engineering student** at VIT Vell
 
 ### 🛠️ Skills & Tools
 
-- **Languages:** C, C++, Python, Verilog, MATLAB, Java, Assembly (x86 & 8051)
-- **Tools:** Arduino, ESP8266, MATLAB, Cadence, Vivado, Keil uVision, Git, STM-32
-- **Areas of Expertise:** Embedded Systems, Digital Design, IoT, Microcontrollers, Analog Circuits, VLSI
+### Programming Languages
+- **C**, **C++**, **Bash**, **Python**, **Java**, **Rust**, **Verilog**, **Assembly** (x86, 8051, 6502)
+
+### Microcontrollers
+- **ESP8266**, **ESP32**, **Arduino** (Uno, Nano), **Vega V3**, **STM32**, **8051**
+
+### Communication Protocols
+- **UART**, **USART**, **SPI**, **I2C**, **USB**
+
+### Tools & Frameworks
+- **MATLAB**, **Keil**, **Git**, **NI-Multisim**, **Virtuoso (Cadence)**, **Make**, **GCC**, **GDB**, **Altera Cyclone IV**
+
+### Operating Systems
+- **Windows**, **Linux** (Debian/Arch), **RTOS**
+
+### PCB Design
+- Experience designing simple PCBs
+
+### Soft Skills
+- **Project Management**, **Problem-solving**, **Team Collaboration**
 
 ---
 
