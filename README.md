@@ -10,27 +10,25 @@ I'm a **3rd year Electronics and Communication Engineering student** at VIT Vell
 ### 🛠️ Skills & Tools
 
 ### Programming Languages
-- **C**, **C++**, **Bash**, **Python**, **Java**, **Rust**, **Verilog**, **Assembly** (x86, 8051, 6502)
+- **C**, **C++**, **Python**, **Bash**, **Java**, **Rust**, **Verilog**, **Assembly** (x86, 8051, 6502, ARM)
 
 ### Microcontrollers
-- **ESP8266**, **ESP32**, **Arduino** (Uno, Nano), **Vega V3**, **STM32**, **8051**
+- **ESP32**, **ESP8266**, **STM32** (Cortex M-4), **Arduino** (Uno, Nano), **8051**, **ATtiny85**, **CH32V203**, **Vega V3**
 
 ### Communication Protocols
-- **UART**, **USART**, **SPI**, **I2C**, **USB**
+- **UART**, **USART**, **SPI**, **I2C**, **USB**, **Wi-Fi**
 
 ### Tools & Frameworks
-- **MATLAB**, **Keil**, **Git**, **NI-Multisim**, **Virtuoso (Cadence)**, **Make**, **GCC**, **GDB**, **Altera Cyclone IV**
+- **ESP-IDF**, **STM32CubeIDE**, **MATLAB**, **Keil uVision**, **Git**, **NI-Multisim**, **Virtuoso (Cadence)**, **Make**, **CMake**, **GCC**, **GDB**, **Altera Cyclone IV**
 
 ### Operating Systems
-- **Windows**, **Linux** (Debian/Arch), **RTOS**
+- **Linux** (Debian/Arch), **Windows**, **FreeRTOS**
 
 ### PCB Design
-- Experience designing simple PCBs
+- Basic experience designing PCBs
 
 ### Soft Skills
-- **Project Management**, **Problem-solving**, **Team Collaboration**
-
----
+- **Project Management**, **Problem-solving**, **Team Collaboration**, **Workshop Facilitation**
 
 ### 📫 Get in Touch
 
