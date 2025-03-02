@@ -1,37 +1,47 @@
-# Hi, I'm Suvansh 👋
+# Hi, I'm Suvansh Gupta 👋  
 
-### Welcome to my GitHub!
+## Welcome to My GitHub!  
 
-I'm a **3rd year Electronics and Communication Engineering student** at VIT Vellore, with a deep passion for **embedded systems**, **VLSI**, and **digital design**. My focus is on creating innovative solutions using **microcontrollers**, **analog circuits**, and **custom hardware designs**.
+I'm a **3rd-year Electronics and Communication Engineering student** at **VIT Vellore**, deeply passionate about **embedded systems**, **VLSI**, **digital design**, and **low-level programming**. My expertise lies in developing **bare-metal firmware**, **custom CPU architectures**, and **hardware-software co-design** for optimized performance.  
 
 ---
 
+## 🔧 Technical Skills  
 
-### 🛠️ Skills & Tools
+### **Programming Languages**  
+- **C**, **C++**, **Python**, **Bash**, **Java**, **Rust**, **Verilog**, **Assembly** (x86, 8051, 6502, ARM, RISC-V)  
 
-### Programming Languages
-- **C**, **C++**, **Python**, **Bash**, **Java**, **Rust**, **Verilog**, **Assembly** (x86, 8051, 6502, ARM)
+### **Embedded Systems & Microcontrollers**  
+- **ESP32**, **ESP8266**, **STM32** (Cortex M-4), **Arduino** (Uno, Nano), **8051**, **ATtiny85**, **CH32V203**, **Vega V3**  
 
-### Microcontrollers
-- **ESP32**, **ESP8266**, **STM32** (Cortex M-4), **Arduino** (Uno, Nano), **8051**, **ATtiny85**, **CH32V203**, **Vega V3**
+### **OS & Kernel Development**  
+- **Bare-metal OS development** (sxOS)  
+- **RTOS** (FreeRTOS)  
+- **Linux Kernel & Driver Development**  
 
-### Communication Protocols
-- **UART**, **USART**, **SPI**, **I2C**, **USB**, **Wi-Fi**
+### **Communication Protocols**  
+- **UART**, **USART**, **SPI**, **I2C**, **USB**, **Wi-Fi**, **TCP/UDP**  
 
-### Tools & Frameworks
-- **ESP-IDF**, **STM32CubeIDE**, **MATLAB**, **Keil uVision**, **Git**, **NI-Multisim**, **Virtuoso (Cadence)**, **Make**, **CMake**, **GCC**, **GDB**, **Altera Cyclone IV**
+### **Tools & Frameworks**  
+- **ESP-IDF**, **STM32CubeIDE**, **MATLAB**, **Keil uVision**, **Git**, **Cadence Virtuoso**, **NI Multisim**, **Altera Quartus**, **QEMU**, **Make**, **CMake**, **GCC**, **GDB**  
 
-### Operating Systems
-- **Linux** (Debian/Arch), **Windows**, **FreeRTOS**
+### **Emulation & Computer Architecture**  
+- Developed a **CHIP-8 emulator** for ESP32  
+- Building an **NES emulator in Rust** for STM32  
+- Designed a **32-bit CPU in Verilog** with a **custom ALU & Vedic multiplier**  
 
-### PCB Design
-- Basic experience designing PCBs
+### **PCB Design & Digital Design**  
+- Experience in **basic PCB design** for embedded applications  
 
-### Soft Skills
-- **Project Management**, **Problem-solving**, **Team Collaboration**, **Workshop Facilitation**
+### **AI & Machine Learning**  
+- Learning **Reinforcement Learning** *(David Silver's Course)*  
+- Exploring **Machine Learning for Edge Devices**  
 
-### 📫 Get in Touch
 
-- **LinkedIn:** [🔨](https://www.linkedin.com/in/suvansh-gupta-8bb744308/)
 
-Feel free to explore my repositories and reach out if you'd like to collaborate!
+
+##  Get in Touch  
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/suvansh-gupta-8bb744308/)  
+- **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/sudoXpg)  
+
+Feel free to explore my repositories and reach out if you'd like to collaborate! 🚀  
