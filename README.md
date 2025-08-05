@@ -1,18 +1,18 @@
 # Hey, I’m Suvansh
 
-I’m an electronics undergrad at VIT Vellore who’s deeply into systems and low-level engineering. Most of my time goes into building things from scratch- operating systems, CPU architectures, real-time firmware, and sometimes entire protocol stacks just to understand how they really work.
+I’m an electronics undergrad at VIT Vellore with a deep obsession for systems and low-level engineering. I spend most of my time building things from the ground up, operating systems, CPU architectures, real-time firmware, and even full protocol stacks, just to understand how they really work.
 
-I’m especially drawn to the intersection of hardware and software. Whether it’s writing a bootloader in pure C and assembly or crafting a RISC-V pipeline in Verilog, I enjoy getting my hands dirty with the actual bits and signals. I’ve built USB stacks, made my own emulator cores, and designed hardware for edge AI, not because I had to, but because I wanted to know how the whole stack fits together.
+I’m drawn to the intersection of hardware and software. Whether it’s writing a bootloader in pure C and assembly or designing a custom RISC-V pipeline in Verilog, I enjoy working close to the metal. I’ve written emulator cores, and designed hardware for edge applications, not out of necessity, but out of curiosity to see how the layers truly fit together.
 
-Lately, I’ve been thinking a lot about how we can make systems smarter at the hardware level. That’s why I’m currently working on my startup which provides the solution for the problems of tomorrow.
+Lately, I’ve been focused on how to make systems more efficient, secure, and intelligent at their lowest levels. I believe real understanding comes from building, breaking, and rebuilding.
 
-I’m also into teaching and community work. I’ve conducted sessions on bootloaders, firmware, networking, and I run the IoT club at my university where we tinker with all kinds of embedded hardware.
+Outside of projects, I actively teach and run community sessions. I lead the IoT club at my university and have conducted workshops on topics like bootloaders, firmware development, and bare-metal networking.
 
-If you’re building something that pushes the boundaries of what tiny systems can do, I’d love to talk. Whether it’s architecture, firmware, toolchains or raw signal-level debug, I’m probably interested!
+If you’re building something that pushes what small systems can do, whether it’s toolchains, architectures, or raw signal-level debug, I’d love to connect.
 
 ---
 
-📬 suvanshgupta2004@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/suvansh-gupta)  
-🔗 [GitHub](https://github.com/sudoXpg)  
+📬 [suvanshgupta2004@gmail.com](mailto:suvanshgupta2004@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/suvansh-gupta)
+🔗 [GitHub](https://github.com/sudoXpg)
 🔗 [Blog](https://sudoxpg.github.io/byte_bunker/)
